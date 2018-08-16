@@ -21,7 +21,6 @@ body {
     width: 80%;
     background: blue;
     position: relative;
-
 }
 
 .circle{
@@ -30,6 +29,7 @@ body {
     background: green;
     border-radius: 50%;
     position: absolute;
+    
 }
 
 .top{
